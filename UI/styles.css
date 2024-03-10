@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Add your custom CSS styles here */
+
+/* Example styles */
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+	position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#blogPosts {
+    /* Add styles for the blog posts section */
+}
+
+#addPostForm {
+    /* Add styles for the add post form */
+}
+
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0.5;
+  transform: translate(-50%, -50%);
+}
